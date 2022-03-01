@@ -1,0 +1,6 @@
+com\jamaya\applaudo\beans\ItemEJBImpl.class
+com\jamaya\applaudo\exception\BadRequestException.class
+com\jamaya\applaudo\utilities\Status.class
+com\jamaya\applaudo\beans\ItemEJB.class
+com\jamaya\applaudo\entity\Item.class
+com\jamaya\applaudo\exception\NotFoundException.class
